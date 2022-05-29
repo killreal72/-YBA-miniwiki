@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    color: gray;
+}
+p:hover {
+    color: black;
+    font-size: 20px;
+}
+span {
+    background-color: wheat;
+}
+.head:hover {
+     font-size: 19px;
+}
+.zect {
+    width: 350px;
+    height: 250px;
+}
+.zect:hover {
+    width: 400px;
+    box-shadow: 10px 10px 10px 0px skyblue;
+
+}
+img {
+    width: 800px;
+}
+a:hover {
+    font-size: 20px;
+}
+.foot {
+    background-image: linear-gradient( skyblue,slateblue );
+    color: black;
+    
+}
